@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&hide_title=true&theme=github_dark_dimmed" />
 
 **About me**
 
