@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&theme=chartreuse-dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&hide_title=true&theme=vue">
 
 
 ## 😎 About me
@@ -22,7 +22,6 @@ Python   5 mins          ██████████████████�
 <!--END_SECTION:waka-->
 
 ## ✌️ More stats
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=chartreuse-dark">
+![top lan](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue)
 
 
