@@ -1,19 +1,20 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&theme=vue&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>😎 About me</h2>
+    <p>Used to be a big data developer (Java as main).</p>
+    <p>Now Interested in blockchain dev and golang wallet dev.</p>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&theme=vue">
+</div>
 
-
-## 😎 About me
-
-Used to be a big data developer(Java as main).
-
-Now Interested in blockchain dev and golang wallet dev.
-
-
-## 🥳 Open to jobs
-I'm avaible for golang backend(particularly in decentralized wallet sdk developing).
-
-If you are interested in working with me, please get in touch with my [📫email](ccacrop.job@gmail.com)
-
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+      <h2>🥳 Open to jobs</h2>
+      <p>I'm avaible for golang backend(particularly in decentralized wallet sdk developing).</p>
+      <p>If you are interested in working with me, please get in touch with my <a href="mailto:ccacrop.job@gmail.com">📫email</a></p>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue">
+</div>
 
 ## 🕘 Weekly dev schedule
 <!--START_SECTION:waka-->
@@ -23,10 +24,3 @@ Python   5 mins          ██████████████████�
 ```
 
 <!--END_SECTION:waka-->
-
-## ✌️ More stats
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue">
-
-
