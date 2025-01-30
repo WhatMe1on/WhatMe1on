@@ -9,9 +9,9 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-      <h2>🥳 Open to jobs</h2>
-      <p>I'm avaible for golang backend(particularly in decentralized wallet sdk developing).</p>
-      <p>If you are interested in working with me, please get in touch with my <a href="mailto:ccacrop.job@gmail.com">📫email</a></p>
+    <h2>🥳 Open to jobs</h2>
+    <p>I'm avaible for golang backend(particularly in decentralized wallet sdk developing).</p>
+    <p>If you are interested in working with me, please get in touch with my <a href="mailto:ccacrop.job@gmail.com">📫email</a></p>
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue">
 </div>
