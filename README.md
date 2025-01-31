@@ -16,7 +16,11 @@ If you are interested in working with me, please get in touch with my [📫email
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 mins          █████████████████████████   100.00 %
+Markdown     2 hrs 35 mins   ████████████████████▓░░░░   83.15 %
+Python       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Go           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
