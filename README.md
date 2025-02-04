@@ -38,5 +38,12 @@ JavaScript   4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 </details>
 
+<details>
+  <summary><h2>✌️ More stats</h2></summary>
+
+  ![top lan](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue)
+
+</details>
+
 
 
