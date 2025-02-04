@@ -17,7 +17,6 @@ If you are interested in working with me, please get in touch with my [📫email
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
 
 Total Time: 3 hrs 16 mins
 
@@ -37,13 +36,3 @@ JavaScript   4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   ![top lan](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue)
 
 </details>
-
-<details>
-  <summary><h2>✌️ More stats</h2></summary>
-
-  ![top lan](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue)
-
-</details>
-
-
-
