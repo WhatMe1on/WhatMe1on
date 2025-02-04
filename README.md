@@ -1,18 +1,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&theme=vue">
 
 
-## 😎 About me
+<h2>😎 About me</h2>
 
 Used to be a big data developer(Java as main).
 
 Now Interested in blockchain dev and golang wallet dev.
 
-## 🥳 Open to jobs
+<h2>🥳 Open to jobs</h2>
+
 I'm avaible for golang backend(particularly in decentralized wallet sdk developing).
 
 If you are interested in working with me, please get in touch with my [📫email](ccacrop.job@gmail.com)
 
-## 🕘 Weekly dev schedule
+<h2>🕘 Weekly dev schedule</h2>
 <!--START_SECTION:waka-->
 
 ```txt
