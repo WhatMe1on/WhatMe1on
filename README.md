@@ -17,7 +17,6 @@ If you are interested in working with me, please get in touch with my [📫email
 <!--START_SECTION:waka-->
 
 ```txt
-
 Total Time: 3 hrs 16 mins
 
 Markdown     2 hrs 36 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.13 %
