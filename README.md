@@ -11,7 +11,7 @@ Now Interested in blockchain dev and golang wallet dev.
 
 I'm avaible for golang backend(particularly in decentralized wallet sdk developing).
 
-If you are interested in working with me, please get in touch with my [📫email](ccacrop.job@gmail.com)
+If you are interested in working with me, please get in touch with my (📫: ccacrop.job@gmail.com)
 
 <summary><h2>🕘 Weekly dev schedule</h2></summary>
 <!--START_SECTION:waka-->
