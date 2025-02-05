@@ -3,9 +3,7 @@
 
 <summary><h2>About me</h2></summary>
 
-Used to be a big data developer(Java as main).
-
-Now Interested in blockchain dev and golang wallet dev.
+Interested in blockchain dev and golang wallet dev.
 
 <summary><h2>Open to jobs</h2></summary>
 
