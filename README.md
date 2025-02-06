@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&theme=vue">
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue">
 
 <summary><h2>About me</h2></summary>
 
@@ -30,6 +29,6 @@ JavaScript   4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <details>
   <summary><h2>More stats</h2></summary>
 
-  ![top lan](https://github-readme-stats.vercel.app/api/top-langs/?username=Whatme1on&&layout=compact&theme=vue)
+  ![stats](https://github-readme-stats.vercel.app/api?username=Whatme1on&count_private=true&show_icons=true&theme=vue)
 
 </details>
